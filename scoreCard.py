@@ -1,3 +1,4 @@
+#Record break for high points
 def highRecordBrk(b):
     count = 0;
     highScore = runs[0]
@@ -7,6 +8,7 @@ def highRecordBrk(b):
             highScore = runs[i]
     return count
 
+#Record break for low points
 def lowRecordBrk(b):
     count = 0;
     lowScore = runs[0]
