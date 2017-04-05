@@ -1,2 +1,2 @@
 # scoreCard
-To find and print the number of times record is break based on previous​ lowest and highest​ runs scored in series.
+To find and print the number of record break based on previous lowest and highest runs scored in a series of game.
